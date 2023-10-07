@@ -1,4 +1,5 @@
-Challenge 
+Challenge
+---
 
 1. Write a Python program to take two numbers as input and display the result of addition, subtraction, multiplication, division, and modulus. 
 2. Create a Python program where you increment and decrement the same variable. Display the value of the variable after each operation. 

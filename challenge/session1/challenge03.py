@@ -11,8 +11,8 @@ if number > 0:
 else:
     print(help_variable)
 print()
-#~true = true
-#~false = ture
+# ~true = true
+# ~false = ture
 
 number = int(input("Enter second number: "))
 help_variable_two = True
@@ -22,5 +22,5 @@ if number < 0:
     print(not help_variable_two)
 else:
     print(help_variable_two)
-#not true = false
-#not false = true
+# not true = false
+# not false = true

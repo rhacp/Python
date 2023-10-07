@@ -15,4 +15,3 @@ print("b -= 2 , b =", b)
 
 a *= b
 print("a *= b , a =", a)
-

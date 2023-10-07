@@ -26,4 +26,4 @@ print("Even from 10 to 20 on the same line:")
 variable = ""
 for num in range(10, 20, 2):
     variable += str(num) + ", "
-print(variable[:-2])
+print(variable[:-2] + ".")

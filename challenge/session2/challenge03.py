@@ -1,3 +1,7 @@
+print("CHALLENGE 3")
+print("---")
+print()
+
 age = int(input("Enter your age: "))
 
 if age >= 18:

@@ -43,7 +43,7 @@ Challenge
     multiply the total by 2 and then print the value.<br />
 16. Write a Java program where you use unary operators to perform a series of transformations on an integer variable
     number initialized to 50. First, negate number, then take the absolute value, and finally increment it by 1. Print
-    the result at each step.Challenge<br />
+    the result at each step.<br />
 17. Write a Java program that simulates a simple authentication system. Declare a boolean variable hasUsername and
     hasPassword. Set up a series of logical conditions using these two variables that will check the following
     conditions:<br />
